@@ -1,4 +1,5 @@
 body{
-    background-image: linear-gradient(#c2e59c, #64b3f4) ;
+    background: linear-gradient(#c2e59c, #64b3f4) ;
+    background-repeat: no-repeat;
     background-size: 100%;
        }
